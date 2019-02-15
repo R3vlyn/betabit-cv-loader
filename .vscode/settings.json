@@ -1,0 +1,5 @@
+{
+    "appService.deploySubpath": "",
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/d922fa32-5117-40a8-be7f-3e6c7018e05b/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/revteest-node"
+}
